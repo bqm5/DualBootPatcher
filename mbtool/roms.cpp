@@ -47,6 +47,7 @@ static std::vector<std::string> extsd_mount_points{
     "/microSD",
     "/extSdCard",
     "/storage/sdcard1",
+    "/sdcard1",
     "/storage/extSdCard",
     "/storage/external_SD",
     "/storage/MicroSD"
